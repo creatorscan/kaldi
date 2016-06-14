@@ -5,6 +5,7 @@ Kaldi Speech Recognition Toolkit
 ================================
 
 here we do another change, so the conflict happens
+hfhffskdahfskdhfsldlfdsakfd
 
 To build the toolkit: see `./INSTALL`.  These instructions are valid for UNIX
 systems including various flavors of Linux; Darwin; and Cygwin (has not been
